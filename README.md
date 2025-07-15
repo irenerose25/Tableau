@@ -1,4 +1,8 @@
 Indian Personal Finance and Spending Habits
+<img width="1629" height="889" alt="Screenshot 2025-06-02 113601" src="https://github.com/user-attachments/assets/a07fca6d-f887-4ec2-9708-db6ae81e1df8" />
+
+
+
 
 🎯 Purpose
 To analyze and understand personal finance patterns of individuals in India, focusing on income, expenses, and savings. The goal is to identify financial behavior trends and uncover opportunities for smarter financial planning.
